@@ -1,0 +1,167 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    
+   
+}
+
+header{
+    background: #FEFDEB;
+    backdrop-filter: blur(6px);
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+}
+
+header img{
+    width: 70px;
+}
+
+nav > a{
+   
+    background: #FEFDEB    ;
+    width: 100%;
+    justify-content: space-between;
+    display: flexbox;
+    padding: 6px
+}
+
+
+.bienvenida{
+    width: 95%;
+
+}
+
+.bienvenida img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.bienvenida p{
+    padding: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: none;
+    box-shadow: 1px 1px 1px #4CAF50;
+    border-radius: 10px;
+}
+
+
+
+.menu h1{
+    text-align: center;
+    margin: 4%;
+    
+}
+
+.container{
+    width: 95%;
+    display: flex;
+    flex-direction: row ;
+    background-color: #4caf4f7b;
+    border: none;
+}
+
+.container > div{
+    padding: 1%;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+.container h2{
+    margin: 5%;
+
+}
+
+.container img{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 1px 1px  #4CAF50;
+}
+
+.container img:hover{    
+    -webkit-transform:scale(1.1);transform:scale(1.1);
+}
+
+.titulo_c{
+    margin: 5%;
+    text-align: center;
+}
+
+.contact{
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 5%;
+}
+
+.form, .map{
+    width: 50%;
+}
+
+
+
+
+ input, textarea {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 90%;
+    margin-bottom: 15px;
+}
+
+
+ .form button{
+    background-color: white;
+   
+    border-radius: 5px;
+    padding: 5px ;
+}
+
+.form button:hover{
+    color: white;
+    background-color: green;
+}
+
+footer{
+    background-color: #FEFDEB ;
+    text-align: center;
+    padding: 2%;
+    width: 100%;
+}
+
+footer p{
+    padding: 2%;
+
+}
+
+footer a{
+    padding: 2%;
+    text-decoration: double;
+}
+
+footer img{
+    padding-top:2%;
+    width: 70px;
+
+
+
+}
+
+
+
