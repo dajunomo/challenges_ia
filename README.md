@@ -1,4 +1,4 @@
-# Reto Web Dev con IA 🚀
+# Reto Web desarrollo con IA 🚀
 
 Bienvenido/a al repositorio de Retos de Desarrollo Web creados con la ayuda de IA. Este repositorio contiene una serie de desafíos diseñados para ayudarte a mejorar tus habilidades en HTML, CSS y JavaScript, con un enfoque progresivo en la dificultad de cada reto.
 
